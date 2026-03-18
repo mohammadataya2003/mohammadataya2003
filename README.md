@@ -34,6 +34,3 @@
 - 📚 **Exploring** Emerging Software Engineering Best Practices and Patterns.
 - 🎨 **Perfecting** The Art of Writing Readable and Clean Code.
 
-<p align="center">
-  <sub><i>Crafted with logic in C++. Pure code, zero images, zero links.</i></sub>
-</p>
