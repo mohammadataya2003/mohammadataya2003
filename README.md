@@ -52,6 +52,4 @@
   </a>
 </p>
 
-<p align="center">
-  <sub><i>Crafted with logic in C++. Pure code, zero clutter.</i></sub>
-</p>
+
